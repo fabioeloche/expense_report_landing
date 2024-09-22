@@ -105,3 +105,39 @@ nav {
     transform: translate(-50%, -50%);
     z-index: 1; /* Ensure it stays behind the text */
 }
+/* Cover Text */
+#cover-text {
+    z-index: 2; /* Ensure the cover text appears above the background video */
+    position: absolute; /* Allow precise positioning */
+    top: 50%; /* Center vertically */
+    left: 50%; /* Center horizontally */
+    transform: translate(-50%, -50%); /* Adjust for perfect centering */
+    text-align: center; /* Center-align the text */
+    background-color: rgba(0, 0, 0, 0.7); /* Semi-transparent black background */
+    padding: 1rem; /* Add padding inside the cover text */
+    width: 35%; 
+    border-radius: 10px; /* Slightly round the corners */
+    font-size: 2rem; /* Set the default font size */
+}
+
+/* Gradient Text for h2 */
+#cover-text h2 {
+    font-size: 2.5rem;
+    color: transparent;
+    background: linear-gradient(90deg, orange, white);
+    margin: 0 0 1rem 0;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+/* Gradient Text for h3 */
+#cover-text h3 {
+    font-size: 2rem;
+    color: transparent;
+    background: linear-gradient(90deg, orange, white);
+    margin: 0;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
