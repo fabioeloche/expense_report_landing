@@ -119,3 +119,24 @@ The sign-up form was tested to ensure that:
 - **HTML Validation:** The HTML files were validated using the W3C HTML Validator, and no significant issues were found. [Test W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2F8000-fabioeloche-expenserepo-cgapq5wdey2.ws-eu116.gitpod.io%2Findex.html)
 - **CSS Validation:** The CSS files passed through the W3C Jigsaw Validator with no errors. [Test (Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2F8000-fabioeloche-expenserepo-cgapq5wdey2.ws-eu116.gitpod.io%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=it)
 - **Accessibility Testing:** The website was evaluated using Lighthouse, achieving high scores in accessibility and performance.
+
+### Unfixed Bugs
+- **Legacy Browser Support:** Older versions of Internet Explorer do not fully support certain CSS3 features such as flexbox and grid. As a result, the layout may not appear as intended on these browsers.
+
+## Deployment
+The N2F Expense Report Website was deployed using GitHub Pages. To deploy the project, follow these steps:
+1. Navigate to the GitHub repository’s **Settings** tab.
+2. Select the **Pages** option under the "Code and Automation" section.
+3. Choose the **main branch** as the source for deployment.
+4. Save the settings, and the site will be deployed live.
+
+The live version of the site can be found at: [N2F Expense Report](#).
+
+## Technologies Used
+- **HTML5:** For structuring the content of the website.
+- **CSS3:** For styling the website and creating responsive layouts.
+- **Font Awesome:** For adding social media icons to the footer.
+- **Google Fonts:** For the Oswald and Lato fonts used throughout the site.
+- **GitHub Pages:** For hosting the live version of the website.
+
+
