@@ -79,3 +79,21 @@ The hero section includes a full-screen video that auto-plays when the page load
 The benefits section emphasizes the time and cost savings that N2F can provide. A clear message is displayed, along with a button that leads users directly to the sign-up page. Additionally, a demo video is embedded to showcase how the platform works in a real-world scenario.
 
 ![Video](/assests/ScreenShots/Hero%20Section%20Video.png)
+
+### Features Section
+The features section uses a grid layout to showcase N2F’s five core features:
+1. **Smart Scan** – Quickly scans receipts.
+2. **Receipt Storage** – Stores receipts in compliance with legal requirements.
+3. **Corporate Payment Cards** – Issuance of cards for business trips.
+4. **Integration with Company Software** – Seamless integration with accounting software.
+5. **Approval Workflow** – Automates the approval of reimbursements.
+
+This section is designed to be easily scannable, allowing users to quickly grasp the platform’s main selling points.
+
+![features](/assests/ScreenShots/Features%20Section.png)
+
+### Footer
+The footer provides links to N2F’s social media pages, encouraging users to follow and engage with the platform. It also reinforces the professionalism of the site by maintaining consistency across all pages.
+
+![footer](/assests/ScreenShots/footer%20Section.png)
+
