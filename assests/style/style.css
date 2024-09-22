@@ -382,3 +382,34 @@ nav {
     padding: 5%;
     color: #3a3a3a;
 }
+#signup-form {
+    max-width: 400px;
+    position: absolute;
+    left: 10%;
+    top: 50%;
+    border-radius: 15px;
+    z-index: 1;
+    transform: translateY(-50%);
+    color: #ffffff;
+    padding: 7px;
+    border-radius: 15px;
+    background: linear-gradient(90deg, orange, yellow);
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+
+}
+.section-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.section-item-image {
+    width: 100%;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.section-item-text {
+    width: 100%;
+    text-align: center;
+}
