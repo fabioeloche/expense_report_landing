@@ -67,4 +67,4 @@ The website is designed to guide users through a seamless journey:
 ### Header
 The header section of the site includes the logo and navigation menu. The navigation menu contains links to the Home, Features, and Sign-Up pages. On mobile devices, the navigation collapses into a menu that can be toggled by clicking an icon. This ensures that the site remains easy to navigate, regardless of the device being used.
 
-
+![Header](/assests/ScreenShots/header%20section.png)
