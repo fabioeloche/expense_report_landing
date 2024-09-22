@@ -283,3 +283,24 @@ nav {
     background-color: orange;
     color: black;
 }
+/* Large sign-up button */
+.signup-button-max {
+    color: #fff;
+    padding: 1rem 3rem;
+    font-size: 30px;
+    line-height: 30px;
+    text-decoration: none;
+    border-radius: 22px;
+    border: 3px solid #943f19;
+    display: inline-block;
+    margin-top: 30px;
+}
+
+.signup-button-max:hover {
+    background: #161616;
+}
+
+.signup-text {
+    font-size: 40px;
+    margin-bottom: 50px;
+}
