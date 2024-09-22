@@ -46,3 +46,12 @@ The website uses two fonts from Google Fonts:
 
 ### Layout
 The layout is designed to be responsive, ensuring a consistent user experience across desktops, tablets, and mobile devices. The grid system allows content to be displayed clearly, with enough space for users to navigate the site effortlessly.
+
+## Features
+
+### Key Features
+- **Responsive Hero Video:** The homepage features a full-screen video that plays automatically, providing an immediate visual representation of the N2F platform. It engages users from the start and includes a prominent call-to-action for signing up.
+- **Receipt Scanning:** Users can scan receipts in under 5 seconds using N2F’s built-in AI-powered OCR (Optical Character Recognition) technology. This feature is central to the platform and saves businesses valuable time.
+- **Corporate Card Integration:** N2F allows companies to issue corporate cards to employees, which can be used for expense tracking and reporting. The integration of these cards into the platform ensures that all expenses are accounted for automatically.
+- **Seamless Software Integration:** N2F integrates directly with a company’s accounting and payroll software, allowing for a smooth transfer of data and reducing the need for manual entry.
+
