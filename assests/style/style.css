@@ -69,3 +69,17 @@ nav {
 .nav-toggle-label {
     font-size: 2rem;
 }
+#menu {
+    font-size: 110%;
+    letter-spacing: 4px;
+    list-style-type: none;
+}
+
+#menu > li {
+    margin: 1.5rem;
+    font-size: 150%;
+}
+
+.active {
+    border-bottom: 1px solid #3a3a3a;
+}
