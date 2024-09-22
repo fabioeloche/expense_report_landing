@@ -114,3 +114,8 @@ The site was tested on all major browsers, including Google Chrome, Firefox, Mic
 The sign-up form was tested to ensure that:
 - All required fields are validated (first name, last name, email address).
 - The email format is validated before submission to ensure accuracy.
+
+### Validator Testing
+- **HTML Validation:** The HTML files were validated using the W3C HTML Validator, and no significant issues were found. [Test W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2F8000-fabioeloche-expenserepo-cgapq5wdey2.ws-eu116.gitpod.io%2Findex.html)
+- **CSS Validation:** The CSS files passed through the W3C Jigsaw Validator with no errors. [Test (Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2F8000-fabioeloche-expenserepo-cgapq5wdey2.ws-eu116.gitpod.io%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=it)
+- **Accessibility Testing:** The website was evaluated using Lighthouse, achieving high scores in accessibility and performance.
