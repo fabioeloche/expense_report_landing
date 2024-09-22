@@ -60,6 +60,9 @@ The website is designed to guide users through a seamless journey:
 - **Homepage:** Visitors are welcomed with an engaging hero video and clear messaging about the platform’s key benefits. A prominent "Sign Up" button encourages users to start their free trial.
 - **Features Page:** The features are outlined in detail, with easy-to-understand descriptions of each. This page focuses on the time and cost savings offered by N2F and the ease of integrating it with existing systems.
 - **Sign-Up Page:** The sign-up process is kept simple, with a form that asks for basic details such as the user’s first name, last name, and email address. The goal is to reduce friction and make it easy for potential users to get started.
+
+![Sign Up](/assests/ScreenShots/Sign%20up%20form.png)
+
 - **Footer:** Available on every page, the footer provides links to N2F’s social media channels (Twitter, Facebook, YouTube) for further engagement.
 
 ## Code Structure Explanation
