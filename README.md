@@ -55,3 +55,11 @@ The layout is designed to be responsive, ensuring a consistent user experience a
 - **Corporate Card Integration:** N2F allows companies to issue corporate cards to employees, which can be used for expense tracking and reporting. The integration of these cards into the platform ensures that all expenses are accounted for automatically.
 - **Seamless Software Integration:** N2F integrates directly with a company’s accounting and payroll software, allowing for a smooth transfer of data and reducing the need for manual entry.
 
+### User Journey
+The website is designed to guide users through a seamless journey:
+- **Homepage:** Visitors are welcomed with an engaging hero video and clear messaging about the platform’s key benefits. A prominent "Sign Up" button encourages users to start their free trial.
+- **Features Page:** The features are outlined in detail, with easy-to-understand descriptions of each. This page focuses on the time and cost savings offered by N2F and the ease of integrating it with existing systems.
+- **Sign-Up Page:** The sign-up process is kept simple, with a form that asks for basic details such as the user’s first name, last name, and email address. The goal is to reduce friction and make it easy for potential users to get started.
+- **Footer:** Available on every page, the footer provides links to N2F’s social media channels (Twitter, Facebook, YouTube) for further engagement.
+
+
