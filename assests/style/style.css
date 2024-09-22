@@ -421,3 +421,21 @@ footer{
 #menu a:hover{
     border-bottom: 1px solid #3a3a3a;
 }
+/* New Styles for Layout Adjustment */
+.expense-solution-section .section-wrapper, .signup-area .section-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.expense-solution-section .section-item-image, .signup-area .section-item-image {
+    width: 100%;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.expense-solution-section .section-item-text, .signup-area .section-item-text {
+    width: 100%;
+    text-align: center;
+}
