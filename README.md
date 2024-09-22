@@ -33,3 +33,16 @@ The N2F Expense Report Website is designed to showcase a user-friendly platform 
 
 ## Project Overview
 The N2F Expense Report Website serves as a hub for businesses to learn about the platform’s key features and quickly sign up for a trial. N2F enables companies to save time and resources by automating the process of tracking expenses, generating corporate cards, and integrating with existing accounting software. The website is designed to be responsive and visually appealing, allowing users to easily access the information they need on any device.
+
+## Design
+
+### Color Scheme
+The website uses a sleek black background with white text, providing a clean and professional look. Orange and yellow gradients are used to highlight buttons and headers, adding visual emphasis to important calls-to-action, such as the sign-up button.
+
+### Typography
+The website uses two fonts from Google Fonts:
+- **Oswald** for headings, providing a bold and modern look.
+- **Lato** for body text, ensuring readability across different screen sizes and devices.
+
+### Layout
+The layout is designed to be responsive, ensuring a consistent user experience across desktops, tablets, and mobile devices. The grid system allows content to be displayed clearly, with enough space for users to navigate the site effortlessly.
