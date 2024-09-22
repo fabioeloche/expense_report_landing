@@ -141,3 +141,26 @@ nav {
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
+/* Benefit section */
+#benefit {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem;
+    margin: 40px;
+    text-align: center;
+    min-height: 50vh;
+}
+
+#benefit h2 {
+    font-size: 1.5rem;
+    color: transparent;
+    background: linear-gradient(90deg, orange, white);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    width: 80%;
+    margin: 20px;
+    line-height: 1.5;
+}
