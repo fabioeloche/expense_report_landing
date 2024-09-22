@@ -208,3 +208,78 @@ nav {
     margin-top: 30px;
     font-size: 1.6rem;
 }
+/* Heading section */
+.heading_section {
+    text-align: center;
+    color: #fff;
+    margin-top: 30px;
+    font-size: 40px;
+    margin-bottom: 25px;
+    text-transform: capitalize;
+}
+
+/* Wrapper for central alignment */
+.wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Grid container layout */
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 20px;
+    width: 90%;
+    max-width: 1200px;
+}
+
+.grid-item {
+    border: 4px solid #943f19;
+    font-size: 18px;
+    border-radius: 20px;
+    min-height: 170px;
+    padding: 20px 10px;
+}
+
+/* Section wrapper for overall spacing */
+.section-wrapper {
+    padding-top: 100px;
+    margin: 0 auto;
+    width: 90%;
+}
+
+.section-item-image {
+    float: left;
+    display: inline;
+    width: 40%;
+    text-align: center;
+}
+
+.section-item-image img {
+    max-width: 100%;
+    height: auto;
+}
+
+.section-item-text {
+    float: left;
+    display: inline;
+    width: 60%;
+    font-size: 20px;
+    margin-top: 50px;
+}
+
+.section-item-text .head {
+    font-size: 30px;
+    margin-bottom: 30px;
+    font-weight: bold;
+}
+
+.signup-area {
+    text-align: center;
+}
+
+.join-button:hover {
+    background-color: orange;
+    color: black;
+}
