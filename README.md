@@ -74,3 +74,8 @@ The main content of the site is divided into various sections, each with a clear
 
 ### Hero Section
 The hero section includes a full-screen video that auto-plays when the page loads. This video provides a dynamic and engaging introduction to N2F’s key features. Positioned over the video is a brief message that highlights the platform’s core benefit: saving time and money on expense management.
+
+### Benefits Section
+The benefits section emphasizes the time and cost savings that N2F can provide. A clear message is displayed, along with a button that leads users directly to the sign-up page. Additionally, a demo video is embedded to showcase how the platform works in a real-world scenario.
+
+![Video](/assests/ScreenShots/Hero%20Section%20Video.png)
