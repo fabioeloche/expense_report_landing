@@ -164,3 +164,21 @@ nav {
     margin: 20px;
     line-height: 1.5;
 }
+/* Button styles */
+#signup-button {
+    display: inline-block;
+    background-color: #000000;
+    color: #ffffff;
+    padding: 1rem 2rem;
+    font-size: 1.5rem;
+    text-decoration: none;
+    border-radius: 25px;
+    border: 2px solid orange;
+    margin-top: 1.5rem;
+    transition: background-color 0.3s ease, border-color 0.3s ease;
+}
+
+#signup-button:hover {
+    background-color: #333333;
+    border-color: #ff6600;
+}
