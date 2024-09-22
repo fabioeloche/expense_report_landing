@@ -439,3 +439,158 @@ footer{
     width: 100%;
     text-align: center;
 }
+/* -----Start::Media Query---- */
+@media screen and (min-width: 768px) {
+    nav {
+      display: block;
+      position: relative;
+      box-shadow: none;
+      width: fit-content;
+      padding-right: 1rem;
+    }
+    #menu {
+      display: flex;
+      background-color: #000;
+    }
+    #menu > li {
+        padding-left: 1rem;
+        font-size: 1.5rem;
+    }
+    .nav-toggle-label {
+        display: none;
+    }
+    #logo {
+        font-size: 2rem;
+        line-height: 3.125rem;
+        margin: 0;
+        color: #FFF;
+        text-align: center;
+        width: 100%;
+    }
+    main {
+        margin-top: 90px;
+    }
+    #hero {
+        height: 600px;
+    }
+    #cover-text {
+        max-width: 40%;
+        font-size: 2.5rem;
+    }
+    #benefit h2 {
+        font-size: 2.5rem;
+        width: 80%;
+        margin-top: 40px;
+    }
+
+    /* Button styles */
+    #signup-button {
+        display: inline-block;
+        background-color: #000;
+        color: #fff;
+        padding: 1rem 2rem;
+        font-size: 1.5rem;
+        text-decoration: none;
+        border-radius: 25px;
+        border: 2px solid orange;
+        margin-top: 1.5rem;
+        transition: background-color 0.3s ease, border-color 0.3s ease;
+    }
+
+    #signup-button:hover {
+        background-color: #333;
+        border-color: #ff6600;
+    }
+
+    .video-container {
+        height: 500px;
+        margin-top: 80px;
+    }
+    .video-description {
+        font-size: 2rem;
+        width: 60%;
+    }
+    #signup {
+        background-position: center;
+        position: relative;
+    }
+    .text-input:hover {
+        border-color: #f16c6b;
+    }
+
+    .expense-solution-section .section-item-image,
+    .signup-area .section-item-image {
+        width: 40%;
+        float: left;
+    }
+
+    .expense-solution-section .section-item-text,
+    .signup-area .section-item-text {
+        width: 60%;
+        float: left;
+        text-align: left;
+        padding-left: 20px;
+    }
+}
+
+@media (max-width: 991px) {
+    #logo {
+        font-size: 1.25rem;
+    }
+    #menu > li {
+        padding-left: 0;
+        margin: 20px;
+    }
+    header a {
+        font-size: 1.125rem;
+    }
+    .grid-container {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (max-width: 767px) {
+    #signup {
+        padding: 3.125rem 0.9375rem;
+    }
+    .inner-sf h2 {
+        font-size: 1rem;
+        margin-bottom: 0.9375rem;
+    }
+    #cover-text {
+        width: 100%;
+    }
+    #benefit {
+        margin: 0;
+    }
+    .social-networks {
+        margin: 0.625rem 0;
+    }
+    #signup-form {
+        max-width: 100%;
+        left: 50%;
+        top: 50%;
+        transform: translate(-50%, -50%);
+        background: linear-gradient(90deg, orange, yellow);
+        box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+        width: 90%;
+    }
+    .grid-container {
+        grid-template-columns: repeat(2, 1fr);
+    }
+    .section-item-image, 
+    .section-item-text {
+        width: 50%;
+    }
+}
+
+@media (max-width: 480px) {
+    .grid-container {
+        grid-template-columns: repeat(1, 1fr);
+    }
+    .section-item-image,
+    .section-item-text {
+        width: 100%;
+    }
+}
+/* -----End::Media Query---- */
