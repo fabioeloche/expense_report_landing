@@ -68,3 +68,9 @@ The website is designed to guide users through a seamless journey:
 The header section of the site includes the logo and navigation menu. The navigation menu contains links to the Home, Features, and Sign-Up pages. On mobile devices, the navigation collapses into a menu that can be toggled by clicking an icon. This ensures that the site remains easy to navigate, regardless of the device being used.
 
 ![Header](/assests/ScreenShots/header%20section.png)
+
+### Main Content
+The main content of the site is divided into various sections, each with a clear focus. These sections include the hero, benefit, features, and footer sections.
+
+### Hero Section
+The hero section includes a full-screen video that auto-plays when the page loads. This video provides a dynamic and engaging introduction to N2F’s key features. Positioned over the video is a brief message that highlights the platform’s core benefit: saving time and money on expense management.
