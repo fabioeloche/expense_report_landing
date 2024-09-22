@@ -97,3 +97,20 @@ The footer provides links to N2F’s social media pages, encouraging users to fo
 
 ![footer](/assests/ScreenShots/footer%20Section.png)
 
+## Future Enhancements 
+- **Enhanced Analytics Dashboard:** In future iterations, a detailed analytics dashboard could be added, providing businesses with insights into their spending patterns and helping them make data-driven decisions.
+- **Multi-language Support:** To accommodate a global audience, language localization can be implemented, allowing users to view the site and use the platform in their preferred language.
+- **Additional Payment Integrations:** More corporate payment card providers could be integrated into the platform, expanding N2F’s reach.
+
+## Testing
+
+### Responsive Design Testing
+The site was thoroughly tested across various devices, including desktops, tablets, and smartphones, to ensure that the layout and design adapt seamlessly to different screen sizes.
+
+### Cross-browser Testing
+The site was tested on all major browsers, including Google Chrome, Firefox, Microsoft Edge, and Safari. No significant issues were found, and the site performed consistently across all platforms.
+
+### Form Validation Testing
+The sign-up form was tested to ensure that:
+- All required fields are validated (first name, last name, email address).
+- The email format is validated before submission to ensure accuracy.
