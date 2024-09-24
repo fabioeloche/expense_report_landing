@@ -53,15 +53,15 @@ The layout is designed to be responsive, ensuring a consistent user experience a
 The website is designed to guide users through a seamless journey:
 - **Homepage:** Visitors are welcomed with an engaging hero video and clear messaging about the platform’s key benefits. A prominent "Sign Up" button encourages users to start their free trial.
 
-![Homepage](/assests/)
+![Homepage](/assests/ScreenShots/Index.html%20Page.PNG)
 
 - **Features Page:** The features are outlined in detail, with easy-to-understand descriptions of each. This page focuses on the time and cost savings offered by N2F and the ease of integrating it with existing systems.
 
-![Features Image](/assests)
+![Features Image](/assests/ScreenShots/features.html%20Page.PNG)
 
 - **Sign-Up Page:** The sign-up process is kept simple, with a form that asks for basic details such as the user’s first name, last name, and email address. The goal is to reduce friction and make it easy for potential users to get started.
 
-![Sign Up](/assests/)
+![Sign Up](/assests/ScreenShots/SignUp.html%20page.PNG)
 
 - **Footer:** Available on every page, the footer provides links to N2F’s social media channels (Twitter, Facebook, YouTube) for further engagement.
 
