@@ -144,4 +144,16 @@ The live version of the site can be found at: [N2F Expense Report](https://fabio
 - **Google Fonts:** For the Oswald and Lato fonts used throughout the site.
 - **GitHub Pages:** For hosting the live version of the website.
 
+## Credits
+
+### Content & Design Inspiration
+The initial layout of the menu and header was inspired by the Love [Running project](https://github.com/Code-Institute-Solutions/love-running-v3/tree/main/3.1-setting-up-the-basic-html-structure) but has been significantly modified for our purpose. Unlike Love Running, our project uses a black and orange color scheme with gradients, introduces a "Features" section and a video section, includes background and header videos, interactive buttons with hover effects, and focuses on presenting an app for recording business expenses and travel receipts rather than a sports-related theme.
+
+### Video Background
+The background video is available for licensing at [Adobe Stock](https://stock.adobe.com/it/video/close-up-of-an-asian-young-man-scaning-the-receipts-from-stores-with-his-mobile-application-in-his-car-after-work-transferring-money-between-accounts-qr-code-scanning-saving-money-deals-coupons/395369427). The purchase of the license will be completed upon the official publication of the website.
+
+### Images & Content
+The images and content of the website were provided by the company, available at [Link](https://www.n2f.com/it/nota-spese/).
+
+
 
