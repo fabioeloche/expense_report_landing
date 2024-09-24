@@ -123,6 +123,8 @@ The sign-up form was tested to ensure that:
 - **CSS Validation:** The CSS files passed through the W3C Jigsaw Validator with no errors. [Test (Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2F8000-fabioeloche-expenserepo-cgapq5wdey2.ws-eu116.gitpod.io%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=it)
 - **Accessibility Testing:** The website was evaluated using Lighthouse, achieving high scores in accessibility and performance.
 
+![Accessibility](/assests/ScreenShots/lighthouse%20report.PNG)
+
 ### Unfixed Bugs
 - **Legacy Browser Support:** Older versions of Internet Explorer do not fully support certain CSS3 features such as flexbox and grid. As a result, the layout may not appear as intended on these browsers.
 
