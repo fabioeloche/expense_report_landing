@@ -135,7 +135,7 @@ The N2F Expense Report Website was deployed using GitHub Pages. To deploy the pr
 3. Choose the **main branch** as the source for deployment.
 4. Save the settings, and the site will be deployed live.
 
-The live version of the site can be found at: [N2F Expense Report](https://8000-fabioeloche-expenserepo-cgapq5wdey2.ws-eu116.gitpod.io/index.html).
+The live version of the site can be found at: [N2F Expense Report](https://fabioeloche.github.io/expense_report_landing/index.html).
 
 ## Technologies Used
 - **HTML5:** For structuring the content of the website.
