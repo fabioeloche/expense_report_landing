@@ -12,7 +12,6 @@ The N2F Expense Report Website is designed to showcase a user-friendly platform 
    - [Layout](#layout)
 3. [Features](#features)
    - [Key Features](#key-features)
-   - [User Journey](#user-journey)
 4. [Code Structure Explanation](#code-structure-explanation)
    - [Header](#header)
    - [Main Content](#main-content)
@@ -50,18 +49,19 @@ The layout is designed to be responsive, ensuring a consistent user experience a
 ## Features
 
 ### Key Features
-- **Responsive Hero Video:** The homepage features a full-screen video that plays automatically, providing an immediate visual representation of the N2F platform. It engages users from the start and includes a prominent call-to-action for signing up.
-- **Receipt Scanning:** Users can scan receipts in under 5 seconds using N2F’s built-in AI-powered OCR (Optical Character Recognition) technology. This feature is central to the platform and saves businesses valuable time.
-- **Corporate Card Integration:** N2F allows companies to issue corporate cards to employees, which can be used for expense tracking and reporting. The integration of these cards into the platform ensures that all expenses are accounted for automatically.
-- **Seamless Software Integration:** N2F integrates directly with a company’s accounting and payroll software, allowing for a smooth transfer of data and reducing the need for manual entry.
 
-### User Journey
 The website is designed to guide users through a seamless journey:
 - **Homepage:** Visitors are welcomed with an engaging hero video and clear messaging about the platform’s key benefits. A prominent "Sign Up" button encourages users to start their free trial.
+
+![Homepage](/assests/)
+
 - **Features Page:** The features are outlined in detail, with easy-to-understand descriptions of each. This page focuses on the time and cost savings offered by N2F and the ease of integrating it with existing systems.
+
+![Features Image](/assests)
+
 - **Sign-Up Page:** The sign-up process is kept simple, with a form that asks for basic details such as the user’s first name, last name, and email address. The goal is to reduce friction and make it easy for potential users to get started.
 
-![Sign Up](/assests/ScreenShots/Sign%20up%20form.png)
+![Sign Up](/assests/)
 
 - **Footer:** Available on every page, the footer provides links to N2F’s social media channels (Twitter, Facebook, YouTube) for further engagement.
 
