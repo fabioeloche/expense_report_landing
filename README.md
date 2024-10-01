@@ -130,10 +130,9 @@ The footer provides links to N2F’s social media pages, encouraging users to fo
 - Checked the images and ensured proper alignment on all devices.
 
 ### Signup Page (signup.html):
-- Tested the form with both valid and invalid inputs for fields like Name and Email to ensure validation functions as expected.
+- Tested the form with both valid and invalid inputs for fields like First Name, Last Name and Email to ensure validation functions as expected.
 - Verified that the Email field requires correct syntax (e.g., with an "@" symbol) and displays error messages if incorrect.
 - Ensured that the "Submit" button only works when required fields are filled out correctly.
-- Checked the animation for field focus, ensuring the outline color changes correctly when focusing on each input field.
 - Tested responsiveness of the form and page across different devices and screen sizes.
 
 ### General Tests:
