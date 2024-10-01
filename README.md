@@ -27,6 +27,11 @@ The N2F Expense Report Website is designed to showcase a user-friendly platform 
    - [Validator Testing](#validator-testing)
    - [Unfixed Bugs](#unfixed-bugs)
 7. [Deployment](#deployment)
+- [Local Development](#local-development)
+  - [Forking the Repository](#forking-the-repository)
+  - [Cloning the Repository](#cloning-the-repository)
+- [Features](#features)
+- [Contact](#contact)
 8. [Technologies Used](#technologies-used)
 9. [Credits](#credits)
 
@@ -128,12 +133,38 @@ The sign-up form was tested to ensure that:
 ### Unfixed Bugs
 - **Legacy Browser Support:** Older versions of Internet Explorer do not fully support certain CSS3 features such as flexbox and grid. As a result, the layout may not appear as intended on these browsers.
 
-## Deployment
-The N2F Expense Report Website was deployed using GitHub Pages. To deploy the project, follow these steps:
-1. Navigate to the GitHub repository’s **Settings** tab.
-2. Select the **Pages** option under the "Code and Automation" section.
-3. Choose the **main branch** as the source for deployment.
-4. Save the settings, and the site will be deployed live.
+# Deployment
+
+The website is deployed using GitHub Pages. Follow these steps to deploy the project:
+
+1. Log in (or sign up) to GitHub.
+2. Go to the repository: [fabioeloche/expense_report_landing](https://github.com/fabioeloche/expense_report_landing).
+3. Navigate to the repository’s **Settings** tab.
+4. Under the **Code and Automation** section, select the **Pages** option.
+5. From the source dropdown, select the **main branch** and save the settings.
+6. The site will be deployed within a few minutes. The live version will be accessible at the provided URL once the deployment is complete.
+
+## Local Development
+
+### Forking the Repository
+
+To fork this repository:
+
+1. Log in (or sign up) to GitHub.
+2. Go to the repository: [fabioeloche/expense_report_landing](https://github.com/fabioeloche/expense_report_landing).
+3. Click the **Fork** button in the top right corner of the page.
+
+### Cloning the Repository
+
+To clone the repository to your local machine:
+
+1. Log in (or sign up) to GitHub.
+2. Go to the repository: [fabioeloche/expense_report_landing](https://github.com/fabioeloche/expense_report_landing).
+3. Click on the **Code** button, select the cloning method (HTTPS, SSH, or GitHub CLI), and copy the link provided.
+4. Open your terminal and navigate to the directory where you want to clone the repository.
+5. Type the following command into the terminal:
+   ```bash
+   git clone <repository-link>
 
 The live version of the site can be found at: [N2F Expense Report](https://fabioeloche.github.io/expense_report_landing/index.html).
 
