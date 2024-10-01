@@ -162,7 +162,7 @@ To clone the repository to your local machine:
 4. Open your terminal and navigate to the directory where you want to clone the repository.
 5. Type the following command into the terminal:
    ```bash
-   git clone <repository-link>
+   git clone <https://github.com/fabioeloche/expense_report_landing>
 
 The live version of the site can be found at: [N2F Expense Report](https://fabioeloche.github.io/expense_report_landing/index.html).
 
