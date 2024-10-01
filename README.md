@@ -22,9 +22,11 @@ The live version of the site can be found at: [N2F Expense Report](https://fabio
    - [Footer](#footer)
 5. [Future Enhancements](#future-enhancements)
 6. [Testing](#testing)
-   - [Responsive Design Testing](#responsive-design-testing)
-   - [Cross-browser Testing](#cross-browser-testing)
-   - [Form Validation Testing](#form-validation-testing)
+   - [Navigation Bar](#navigation-bar)
+   - [Landing Page (index.html)](#landing-page-indexhtml)
+   - [Features Page (features.html)](#features-page-featureshtml)
+   - [Signup Page (signup.html)](#signup-page-signuphtml)
+   - [General Tests](#general-tests)
    - [Validator Testing](#validator-testing)
    - [Unfixed Bugs](#unfixed-bugs)
 7. [Deployment](#deployment)
@@ -112,16 +114,33 @@ The footer provides links to N2F’s social media pages, encouraging users to fo
 
 ## Testing
 
-### Responsive Design Testing
-The site was thoroughly tested across various devices, including desktops, tablets, and smartphones, to ensure that the layout and design adapt seamlessly to different screen sizes.
+### Navigation Bar:
+- Tested all navigation bar elements across the three pages: `index.html`, `features.html`, and `signup.html` for proper functionality.
+- Verified hover effects for navigation links on all pages.
+- Confirmed the navigation bar remains fully responsive across various screen sizes.
 
-### Cross-browser Testing
-The site was tested on all major browsers, including Google Chrome, Firefox, Microsoft Edge, and Safari. No significant issues were found, and the site performed consistently across all platforms.
+### Landing Page (index.html):
+- Tested the call-to-action button for smooth interaction and redirection to the signup page.
+- Checked social media icons to ensure they open in a new tab and redirect to the correct external pages.
+- Ensured the page layout and elements (e.g., text, images, buttons) display properly on different browsers (Chrome, Safari, MS Edge) and devices (desktop, tablet, mobile).
+- Tested the favicon appearance across all pages and confirmed it loads correctly.
 
-### Form Validation Testing
-The sign-up form was tested to ensure that:
-- All required fields are validated (first name, last name, email address).
-- The email format is validated before submission to ensure accuracy.
+### Features Page (features.html):
+- Verified the responsiveness of the features section across various screen sizes (mobile, tablet, and desktop).
+- Checked the images and ensured proper alignment on all devices.
+
+### Signup Page (signup.html):
+- Tested the form with both valid and invalid inputs for fields like Name and Email to ensure validation functions as expected.
+- Verified that the Email field requires correct syntax (e.g., with an "@" symbol) and displays error messages if incorrect.
+- Ensured that the "Submit" button only works when required fields are filled out correctly.
+- Checked the animation for field focus, ensuring the outline color changes correctly when focusing on each input field.
+- Tested responsiveness of the form and page across different devices and screen sizes.
+
+### General Tests:
+- Ensured all links across the pages function correctly, opening external links in a new tab where necessary.
+- Verified that the 404 error page displays appropriately for non-existent URLs.
+- Checked the website's responsiveness, confirming it works seamlessly across different browsers (Chrome, Safari, MS Edge) and devices (desktop, tablet, mobile).
+- The site was tested on all major browsers, including Google Chrome, Firefox, Microsoft Edge, and Safari. No significant issues were found, and the site performed consistently across all platforms.
 
 ### Validator Testing
 - **HTML Validation:** The HTML files were validated using the W3C HTML Validator, and no significant issues were found. [Test W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2F8000-fabioeloche-expenserepo-cgapq5wdey2.ws-eu116.gitpod.io%2Findex.html)
