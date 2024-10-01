@@ -53,15 +53,15 @@ The layout is designed to be responsive, ensuring a consistent user experience a
 The website is designed to guide users through a seamless journey:
 - **Homepage:** Visitors are welcomed with an engaging hero video and clear messaging about the platform’s key benefits. A prominent "Sign Up" button encourages users to start their free trial.
 
-![Homepage](/assests/ScreenShots/Index.html%20Page.png)
+![Homepage](/assests/screenshots/index.html_page.png)
 
 - **Features Page:** The features are outlined in detail, with easy-to-understand descriptions of each. This page focuses on the time and cost savings offered by N2F and the ease of integrating it with existing systems.
 
-![Features Image](/assests/ScreenShots/features.html%20Page.png)
+![Features Image](/assests/screenshots/features.html_Page.png)
 
 - **Sign-Up Page:** The sign-up process is kept simple, with a form that asks for basic details such as the user’s first name, last name, and email address. The goal is to reduce friction and make it easy for potential users to get started.
 
-![Sign Up](/assests/ScreenShots/SignUp.html%20page.PNG)
+![Sign Up](/assests/screenshots/signup.html_page.png)
 
 - **Footer:** Available on every page, the footer provides links to N2F’s social media channels (Twitter, Facebook, YouTube) for further engagement.
 
@@ -70,7 +70,7 @@ The website is designed to guide users through a seamless journey:
 ### Header
 The header section of the site includes the logo and navigation menu. The navigation menu contains links to the Home, Features, and Sign-Up pages. On mobile devices, the navigation collapses into a menu that can be toggled by clicking an icon. This ensures that the site remains easy to navigate, regardless of the device being used.
 
-![Header](/assests/ScreenShots/header%20section.png)
+![Header](/assests/screenshots/header-section.png)
 
 ### Main Content
 The main content of the site is divided into various sections, each with a clear focus. These sections include the hero, benefit, features, and footer sections.
@@ -81,7 +81,7 @@ The hero section includes a full-screen video that auto-plays when the page load
 ### Benefits Section
 The benefits section emphasizes the time and cost savings that N2F can provide. A clear message is displayed, along with a button that leads users directly to the sign-up page. Additionally, a demo video is embedded to showcase how the platform works in a real-world scenario.
 
-![Video](/assests/ScreenShots/Hero%20Section%20Video.png)
+![Video](/assests/screenshots/hero-section-video.png)
 
 ### Features Section
 The features section uses a grid layout to showcase N2F’s five core features:
@@ -93,12 +93,12 @@ The features section uses a grid layout to showcase N2F’s five core features:
 
 This section is designed to be easily scannable, allowing users to quickly grasp the platform’s main selling points.
 
-![features](/assests/ScreenShots/Features%20Section.png)
+![features](/assests/screenshots/features_section.png)
 
 ### Footer
 The footer provides links to N2F’s social media pages, encouraging users to follow and engage with the platform. It also reinforces the professionalism of the site by maintaining consistency across all pages.
 
-![footer](/assests/ScreenShots/footer%20Section.png)
+![footer](/assests/screenshots/footer_section.png)
 
 ## Future Enhancements 
 - **Enhanced Analytics Dashboard:** In future iterations, a detailed analytics dashboard could be added, providing businesses with insights into their spending patterns and helping them make data-driven decisions.
@@ -123,7 +123,7 @@ The sign-up form was tested to ensure that:
 - **CSS Validation:** The CSS files passed through the W3C Jigsaw Validator with no errors. [Test (Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2F8000-fabioeloche-expenserepo-cgapq5wdey2.ws-eu116.gitpod.io%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=it)
 - **Accessibility Testing:** The website was evaluated using Lighthouse, achieving high scores in accessibility and performance.
 
-![Accessibility](/assests/ScreenShots/lighthouse%20report.PNG)
+![Accessibility](/assests/screenshots/lighthouse-report.PNG)
 
 ### Unfixed Bugs
 - **Legacy Browser Support:** Older versions of Internet Explorer do not fully support certain CSS3 features such as flexbox and grid. As a result, the layout may not appear as intended on these browsers.
