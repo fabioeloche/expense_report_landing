@@ -51,12 +51,12 @@
                 <div class="inner-sf">
                     <h2>Register with N2F</h2><br>
                     <label for="first-name">First Name</label>
-                    <input type="text" name="first_name" id="first-name" class="text-input" required pattern=".*\S+.*"
-                        title="This field cannot contain only spaces.">
+                    <input type="text" name="first_name" id="first-name" class="text-input" required pattern="\S(.*\S)?"
+                        title="This field is required and cannot contain only spaces.">
                     <br>
                     <label for="last-name">Last Name</label>
-                    <input type="text" name="last_name" id="last-name" class="text-input" required pattern=".*\S+.*"
-                        title="This field cannot contain only spaces.">
+                    <input type="text" name="last_name" id="last-name" class="text-input" required pattern="\S(.*\S)?"
+                        title="This field is required and cannot contain only spaces.">
                     <br>
                     <label for="email-address">Email Address</label>
                     <input type="email" name="email_address" id="email-address" class="text-input" required>
