@@ -2,7 +2,7 @@
 
 The N2F Expense Report Website is designed to showcase a user-friendly platform that simplifies expense report management for businesses of all sizes. The main objective of this site is to provide users with a clear understanding of the platform's features, including receipt scanning, corporate card integration, and seamless synchronization with existing company software. The website guides users through the software's benefits and offers a simple way to sign up for a free trial.
 
-![Responsice Mockup](/assests/ScreenShots/N2F%20Responsive.png)
+![Responsice Mockup](/assests/screenshots/n2f_responsive.png)
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
