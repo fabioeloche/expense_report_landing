@@ -41,6 +41,7 @@ The N2F Expense Report Website serves as a hub for businesses to learn about the
 
 ### Color Scheme
 The website uses a sleek black background with white text, providing a clean and professional look. Orange and yellow gradients are used to highlight buttons and headers, adding visual emphasis to important calls-to-action, such as the sign-up button.
+![Features Image](/assets/screenshots/color_scheme.png)
 
 ### Typography
 The website uses two fonts from Google Fonts:
