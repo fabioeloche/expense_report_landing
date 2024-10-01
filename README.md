@@ -13,7 +13,7 @@ The live version of the site can be found at: [N2F Expense Report](https://fabio
    - [Layout](#layout)
 3. [Features](#features)
    - [Key Features](#key-features)
-4. [Code Structure Explanation](#code-structure-explanation)
+4. [Page Structure](#code-structure-explanation)
    - [Header](#header)
    - [Main Content](#main-content)
    - [Hero Section](#hero-section)
@@ -72,7 +72,7 @@ The website is designed to guide users through a seamless journey:
 
 - **Footer:** Available on every page, the footer provides links to N2F’s social media channels (Twitter, Facebook, YouTube) for further engagement.
 
-## Code Structure Explanation
+## Page Structure
 
 ### Header
 The header section of the site includes the logo and navigation menu. The navigation menu contains links to the Home, Features, and Sign-Up pages. On mobile devices, the navigation collapses into a menu that can be toggled by clicking an icon. This ensures that the site remains easy to navigate, regardless of the device being used.
